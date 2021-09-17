@@ -1,0 +1,19 @@
+.odd {
+    background-color: rgb(249, 187, 187); /* pink */
+    font-family: Verdana sans-serif;
+}
+
+#second {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.odd.third {
+    font-size: 24px;
+}
+
+#fourth {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
